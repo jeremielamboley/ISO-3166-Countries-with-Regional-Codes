@@ -43,7 +43,7 @@ Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,"",019,021,""
 Cayman Islands,KY,CYM,136,ISO 3166-2:KY,Americas,Latin America and the Caribbean,Caribbean,019,419,029
 Central African Republic,CF,CAF,140,ISO 3166-2:CF,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
 Chad,TD,TCD,148,ISO 3166-2:TD,Africa,Sub-Saharan Africa,Middle Africa,002,202,017
-Chile,CL,CHL,152,ISO 3166-2:CL,Americas,Latin America and the Caribbean,South America,019,419,005
+Chile,CL,CHL,152,ISO 3166-2:CL,Americas,Latin America and the Caribbean,South America,019,4,005
 China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,"",142,030,""
 Christmas Island,CX,CXR,162,ISO 3166-2:CX,Oceania,Australia and New Zealand,"",009,053,""
 Cocos (Keeling) Islands,CC,CCK,166,ISO 3166-2:CC,Oceania,Australia and New Zealand,"",009,053,""
@@ -119,6 +119,7 @@ Kenya,KE,KEN,404,ISO 3166-2:KE,Africa,Sub-Saharan Africa,Eastern Africa,002,202,
 Kiribati,KI,KIR,296,ISO 3166-2:KI,Oceania,Micronesia,"",009,057,""
 Korea (Democratic People's Republic of),KP,PRK,408,ISO 3166-2:KP,Asia,Eastern Asia,"",142,030,""
 Korea (Republic of),KR,KOR,410,ISO 3166-2:KR,Asia,Eastern Asia,"",142,030,""
+Kosovo,XK,"","","",Europe,Southern Europe,"","","",""
 Kuwait,KW,KWT,414,ISO 3166-2:KW,Asia,Western Asia,"",142,145,""
 Kyrgyzstan,KG,KGZ,417,ISO 3166-2:KG,Asia,Central Asia,"",142,143,""
 Lao People's Democratic Republic,LA,LAO,418,ISO 3166-2:LA,Asia,South-eastern Asia,"",142,035,""
